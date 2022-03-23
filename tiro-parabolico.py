@@ -19,7 +19,7 @@ def tap(x, y):
         ball.x = -199
         ball.y = -199
         speed.x = (x + 400) / 25 #Velocidad en x de la pelota aumenta al doble
-        speed.y = (y + 200) / 25
+        speed.y = (y + 200) / 25 #Velocidad en y de la pelota aumenta al doble
 
 
 def inside(xy):
