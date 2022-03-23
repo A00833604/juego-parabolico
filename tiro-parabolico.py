@@ -1,11 +1,6 @@
 """Cannon, hitting targets with projectiles.
-
-Exercises
-
-1. Keep score by counting target hits.
-2. Vary the effect of gravity.
-3. Apply gravity to the targets.
-4. Change the speed of the ball.
+1. La velocidad del movimiento para el proyectil y los balones sea más rápida
+2.Hacer que el juego nunca termine, de manera que los balones al salir de la ventana se re posicionen
 """
 
 from random import randrange
